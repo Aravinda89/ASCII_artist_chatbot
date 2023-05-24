@@ -16,7 +16,7 @@ To run the ASCII Artist Chatbot locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ascii-artist-chatbot.git
+   git clone https://github.com/your-username/ascii-artist-chatbot.git](https://github.com/Aravinda89/ASCII_artist_chatbot.git
    ```
 
 2. Install the required dependencies:
