@@ -30,6 +30,7 @@ To run the ASCII Artist Chatbot locally, follow these steps:
    - Create an account on the OpenAI platform (if you haven't already)
    - Obtain an API key
    - write API key inside `.env` file
+   API_KEY = sk-*********************
 
 4. Run the Streamlit app:
 
