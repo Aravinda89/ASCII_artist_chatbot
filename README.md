@@ -68,4 +68,3 @@ Contributions to the ASCII Artist Chatbot are welcome! If you find any issues or
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Feel free to modify and enhance this README as per your specific project requirements.
