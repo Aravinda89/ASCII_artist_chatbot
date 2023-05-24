@@ -1,6 +1,3 @@
-Sure! Here's a sample GitHub README for an ASCII Artist Chatbot using the ChatGPT API:
-
-```
 # ASCII Artist Chatbot
 
 This repository contains an ASCII Artist Chatbot powered by the ChatGPT API. The chatbot interacts with users, receives input in the form of messages, and generates ASCII art representations based on the input.
