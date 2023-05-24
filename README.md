@@ -67,5 +67,12 @@ Contributions to the ASCII Artist Chatbot are welcome! If you find any issues or
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
 ```
+
+## References
+
+- OpenAI. OpenAI ChatGPT API. Retrieved from [https://openai.com/docs/api/](https://openai.com/docs/api/)
+- Streamlit. Streamlit Documentation. Retrieved from [https://docs.streamlit.io/](https://docs.streamlit.io/)
+- Awesome ChatGPT Prompts  https://github.com/f/awesome-chatgpt-prompts
 
