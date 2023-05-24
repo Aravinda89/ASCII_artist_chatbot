@@ -58,7 +58,7 @@ Once the Streamlit app is running and you've accessed the chatbot interface, fol
 
 Here's an example conversation with the ASCII Artist Chatbot:
 
-![ezgif com-video-to-gif](https://github.com/Aravinda89/ASCII_artist_chatbot/assets/31471559/f0734689-3f74-4829-a55f-30674614ca4c)
+![ezgif-2-a1f926d6dd](https://github.com/Aravinda89/ASCII_artist_chatbot/assets/31471559/0b943717-6196-4e1c-9430-f3b2ff9d9870)
 
 ## Contributing
 
