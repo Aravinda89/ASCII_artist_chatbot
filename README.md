@@ -68,8 +68,6 @@ Contributions to the ASCII Artist Chatbot are welcome! If you find any issues or
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
-
 ## References
 
 - OpenAI. OpenAI ChatGPT API. Retrieved from [https://openai.com/docs/api/](https://openai.com/docs/api/)
