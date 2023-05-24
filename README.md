@@ -1,2 +1,2 @@
-# ASCII_artist_chatbot
+# ASCII Artist chatbot
 ASCII artist chatbot
