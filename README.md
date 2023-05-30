@@ -2,6 +2,8 @@
 
 This repository contains an ASCII Artist Chatbot powered by the ChatGPT API. The chatbot interacts with users, receives input in the form of messages, and generates ASCII art representations based on the input.
 
+![00162-3657876095](https://github.com/Aravinda89/ASCII_artist_chatbot/assets/31471559/3d8fb11e-fa8c-4d2c-bead-65b9dcb666d6)
+
 ## Features
 
 - Interactive chat-based interface
